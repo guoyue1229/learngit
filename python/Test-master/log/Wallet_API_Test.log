@@ -1,0 +1,67 @@
+æ·»åŠ æ—¥å¿—012020-10-23 16:54:40,481 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='192.168.1.200', port=443): Max retries exceeded with url: //otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10b731dd0>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+2020-10-23 16:57:59,595 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='192.168.1.200', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10a71f390>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+2020-10-29 13:39:49,471 - conftest.py - INFO - [line:15] - 
+ ============================= åœ¨æ‰€æœ‰ç”¨ä¾‹æ‰§è¡Œä¹‹å‰ï¼Œç”Ÿæˆtoken =============================
+2020-10-29 13:39:50,053 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ce23750>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 13:39:50,054 - test_asset.py - INFO - [line:16] - 
+ ==============================ã€èµ„äº§ã€‘æµ‹è¯•ç”¨ä¾‹å¼€å§‹ ==============================
+2020-10-29 13:39:50,074 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10cca4ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 15:50:25,971 - conftest.py - INFO - [line:15] - 
+ ============================= åœ¨æ‰€æœ‰ç”¨ä¾‹æ‰§è¡Œä¹‹å‰ï¼Œç”Ÿæˆtoken =============================
+2020-10-29 15:50:26,006 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10dde8e90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 15:50:26,006 - test_otc.py - INFO - [line:17] - 
+ ==============================ã€èµ„äº§ã€‘æµ‹è¯•ç”¨ä¾‹å¼€å§‹ ==============================
+2020-10-29 15:50:26,025 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10dde8e10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2020-10-29 16:07:52,365 - test_otc.py - INFO - [line:17] - 
+ ==============================ã€èµ„äº§ã€‘æµ‹è¯•ç”¨ä¾‹å¼€å§‹ ==============================
+2020-10-29 16:07:52,396 - all_api.py - INFO - [line:39] - æ¥å£è®¿é—®å‡ºé”™å•¦~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x11090b7d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2022-02-09 16:26:47,189 - conftest.py - INFO - [line:15] - 
+ ============================= ÔÚËùÓĞÓÃÀıÖ´ĞĞÖ®Ç°£¬Éú³Étoken =============================
+2022-02-09 16:26:49,577 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A1B96AC5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-09 16:26:49,579 - test_asset.py - INFO - [line:16] - 
+ ==============================¡¾×Ê²ú¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-09 16:26:51,913 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A1B968F160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-09 17:00:26,994 - conftest.py - INFO - [line:15] - 
+ ============================= ÔÚËùÓĞÓÃÀıÖ´ĞĞÖ®Ç°£¬Éú³Étoken =============================
+2022-02-09 17:00:29,280 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CCCBB35D00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-09 17:00:29,281 - test_asset.py - INFO - [line:16] - 
+ ==============================¡¾×Ê²ú¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-09 17:00:31,552 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CCCBA9E040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-09 17:03:49,594 - conftest.py - INFO - [line:15] - 
+ ============================= ÔÚËùÓĞÓÃÀıÖ´ĞĞÖ®Ç°£¬Éú³Étoken =============================
+2022-02-09 17:03:51,880 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000263CE672760>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-09 17:03:51,881 - test_asset.py - INFO - [line:16] - 
+ ==============================¡¾×Ê²ú¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-09 17:03:54,153 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000263CE6A4670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-10 11:23:53,877 - conftest.py - INFO - [line:15] - 
+ ============================= ÔÚËùÓĞÓÃÀıÖ´ĞĞÖ®Ç°£¬Éú³Étoken =============================
+2022-02-10 11:23:56,163 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015870AACC40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-10 11:23:56,164 - test_asset.py - INFO - [line:16] - 
+ ==============================¡¾×Ê²ú¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-10 11:23:58,434 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015870AC4D00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-11 15:07:16,646 - test_login.py - INFO - [line:14] - 
+ ==============================¡¾µÇÂ¼¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-11 15:13:04,850 - test_login.py - INFO - 14 - 
+ ==============================¡¾µÇÂ¼¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-11 15:13:49,238 - test_login.py - INFO - [line:14] - 
+ ==============================¡¾µÇÂ¼¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-11 18:19:12,199 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E326EE0F10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-11 18:22:36,106 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /otc/coin/list (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AC2A330F10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-17 17:42:09,566 - test_login.py - INFO - [line:14] - 
+ ==============================¡¾µÇÂ¼¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-17 17:46:05,091 - conftest.py - INFO - [line:15] - 
+ ============================= ÔÚËùÓĞÓÃÀıÖ´ĞĞÖ®Ç°£¬Éú³Étoken =============================
+2022-02-17 17:46:07,359 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015A2AE99AC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-17 17:46:07,367 - test_asset.py - INFO - [line:16] - 
+ ==============================¡¾×Ê²ú¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-17 17:46:09,645 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015A2AE99550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-17 17:46:09,724 - test_login.py - INFO - [line:14] - 
+ ==============================¡¾µÇÂ¼¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-17 17:48:04,700 - test_login.py - INFO - [line:14] - 
+ ==============================¡¾µÇÂ¼¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-17 17:48:20,164 - conftest.py - INFO - [line:15] - 
+ ============================= ÔÚËùÓĞÓÃÀıÖ´ĞĞÖ®Ç°£¬Éú³Étoken =============================
+2022-02-17 17:48:22,430 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v1/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E6AD017FD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-17 17:48:22,430 - test_asset.py - INFO - [line:16] - 
+ ==============================¡¾×Ê²ú¡¿²âÊÔÓÃÀı¿ªÊ¼ ==============================
+2022-02-17 17:48:24,699 - all_api.py - INFO - [line:39] - ½Ó¿Ú·ÃÎÊ³ö´íÀ²~ HTTPSConnectionPool(host='xxx', port=443): Max retries exceeded with url: /v2/assets/main/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E6AD0445E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))

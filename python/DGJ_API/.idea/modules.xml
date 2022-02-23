@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python脚本/Test-master/.idea/Test.iml" filepath="$PROJECT_DIR$/../python脚本/Test-master/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python脚本/pythonProject3/.idea/pythonProject3.iml" filepath="$PROJECT_DIR$/../python脚本/pythonProject3/.idea/pythonProject3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_unittest_interface.iml" filepath="$PROJECT_DIR$/.idea/python_unittest_interface.iml" />
+    </modules>
+  </component>
+</project>
